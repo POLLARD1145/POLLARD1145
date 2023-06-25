@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @POLLARD1145
-- 👀 I’m interested in Web development and software development
-- 🌱 I’m currently learning c++, HTML and CSS
-- 💞️ I’m looking to collaborate on building a website for commercial use
+- 👀 I’m interested in Web development and software development, AI and ML 
 - 📫 How to reach me contact me via Facebook @pollard.samba
 -                                   Email: pollardsamba1@gmail.com
 -                                   WhatsApp: +260964200263
