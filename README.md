@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @POLLARD1145
 - 👀 I’m interested in Web development and software development, AI and ML 
 - 📫 How to reach me contact me via Facebook @pollard.samba
--                                   Email: pollardsamba1@gmail.com
--                                   WhatsApp: +260964200263
+  - Email: pollardsamba1@gmail.com
+  - WhatsApp: +260964200263
 -Ready to work with any highly challenging technology.
 
 <!---
