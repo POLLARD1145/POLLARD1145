@@ -30,7 +30,7 @@ Feel free to get in touch with me through the following:
 
 - **Linkedin**: [Pollard Samba](https://www.linkedin.com/in/pollard-samba-81a583180)
 - **Email**: [pollardsamba1@gmail.com](mailto:pollardsamba1@gmail.com)
-- **WhatsApp**: [+260 970 106 440](wa.me/260970106440)
+- **WhatsApp**: [+260 970 106 440](https://www.wa.me/260970106440)
 
 ---
 
