@@ -3,6 +3,7 @@
 ## 👀 About Me
 I am a passionate and dedicated **Web Developer**, **Software Developer**, and an enthusiast in **AI** and **Machine Learning**. I enjoy solving complex problems and building innovative solutions with modern technologies.
 
+
 ### 💼 What I Do:
 - Build **responsive web applications** using modern frameworks like React, Django, and Node.js.
 - Develop **machine learning models** and AI solutions to solve real-world problems.
@@ -31,6 +32,7 @@ Feel free to get in touch with me through the following:
 - **Linkedin**: [Pollard Samba](https://www.linkedin.com/in/pollard-samba-81a583180)
 - **Email**: [pollardsamba1@gmail.com](mailto:pollardsamba1@gmail.com)
 - **WhatsApp**: [+260 970 106 440](https://wa.me/260970106440)
+- **GitHub**: [POLLARD1145Q](https://github.com/POLLARD1145Q) or [POLLARD1145A](https://github.com/POLLARD1145A)
 
 ---
 
